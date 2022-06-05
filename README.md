@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateja Drobnjak</h1>
 <h3 align="center">A React Frontend developer from Serbia</h3>
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **React projects**
 
